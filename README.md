@@ -21,3 +21,6 @@ uv run scripts/fpl_math.py roi --xp 5.8 --cost 7.5 --hook-risk high --output /tm
 ## License
 
 MIT
+
+---
+Built by [Abhishek Prasad](https://abhishekprasad.fyi)
